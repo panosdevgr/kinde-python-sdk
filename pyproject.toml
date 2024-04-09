@@ -22,7 +22,7 @@ dependencies = [
     "Authlib ~=1.2.0",
     "pyjwt ~=2.8.0",
     "requests ~=2.31.0",
-    "typing-extensions ~=4.8.0",
+    "typing-extensions ~=4.11.0",
     "frozendict ~=2.3.8",
     "certifi ~=2022.12.7",
 ]
